@@ -1,1 +1,1 @@
-# Blurry-Loading
+# Blurry-Loading-Using-HTML-CSS-And-JavaScript
